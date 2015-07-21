@@ -1,2 +1,2 @@
 # nidhi_repo
-my first repository
+It is a repository that contains project on movie seat reservation.
